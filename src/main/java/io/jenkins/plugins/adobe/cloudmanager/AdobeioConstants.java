@@ -1,4 +1,4 @@
-package io.jenkins.plugins.cloudmanager;
+package io.jenkins.plugins.adobe.cloudmanager;
 
 // copy of:
 // https://github.com/Adobe-Consulting-Services/acs-aem-commons/blob/59b165575017da39b61a317d89bb303571149bbc/bundle/src/main/java/com/adobe/acs/commons/adobeio/service/impl/AdobeioConstants.java

@@ -1,4 +1,4 @@
-package io.jenkins.plugins.cloudmanager;
+package io.jenkins.plugins.adobe.cloudmanager;
 
 import hudson.util.Secret;
 

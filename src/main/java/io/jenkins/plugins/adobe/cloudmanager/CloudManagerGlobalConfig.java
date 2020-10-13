@@ -1,4 +1,4 @@
-package io.jenkins.plugins.cloudmanager;
+package io.jenkins.plugins.adobe.cloudmanager;
 
 import hudson.Extension;
 import hudson.util.FormValidation;
@@ -97,7 +97,6 @@ public class CloudManagerGlobalConfig extends GlobalConfiguration implements Ado
     this.privateKey = privateKey;
     save();
   }
-
   @Override
   public String toString() {
     return super.toString();
